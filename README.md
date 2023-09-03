@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lillypad92
+- 👋 Hi, I’m @Lillypad92 also named Linda Forslund. 
 - 👀 I’m interested in learning .NET and how to be better at coding. 
 - 🌱 I’m currently studing at Teknikhögskolan with .NET educating, started 25/8-23 and will finish year 2025.
 - 💞️ I’m looking to collaborate on ...
